@@ -4,7 +4,7 @@ Lp-spherical Sparse Training
 Controlling Sparsity of Neural Network with Weight Constrained on Unit Lp-Sphere.  
 For more information, please contact author by: xxx  
 
-The corresponding paper is under review of Nature Machine Intelligence. 
+This demo is for anonymous peer review. 
 
 # System Requirements
 Operating systems: Windows or Linux  
